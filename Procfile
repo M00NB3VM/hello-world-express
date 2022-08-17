@@ -1,1 +1,1 @@
-release: npx cowsay Hello <3
+release: npx cowsay Hello
